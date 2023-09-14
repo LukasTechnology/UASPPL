@@ -1,18 +1,18 @@
-Nama:
-NPM:
-Kode Soal:
+Nama:Lukas
+NPM:20312019
+Kode Soal:A
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Sistem Pemesanan makanan secara online berbasis aplikasi WEB
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Waktu tunggu yang lama, antrian yang tidak sesuai, dan tidak teratur rapih saat pemesanan makanan
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Membuat aplikasi pemesanan makanan secara online berbasis WEB yang mampu mengatasi waktu tunggu dan antrian yang tidak sesuai
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab: Terintegrasi langsung ke bagian keuangan
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab: Dapat diakses hanya dengan jaringan kecepatan tinggi 

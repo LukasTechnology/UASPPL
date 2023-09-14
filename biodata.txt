@@ -1,9 +1,9 @@
-Nama:
-NPM:
-Prodi:
+Nama: Lukas
+NPM: 20312019
+Prodi:S1 Informatika
 
 Link hasil perencanaan sistem menggunakan BRD:
-*upload BRD ke drive dan pastikan akses file bersifat public
+https://drive.google.com/file/d/1YLiaeNxv8Jrn4jyb7lme8AYTMQJ42Pjp/view?usp=sharing
 
 Link hasil perencanaan sistem menggunakan Trello:
-*upload link trello dan pastikan akses board bersifat public
+https://trello.com/b/pRsEAp1W/uas-ppl-extreme-programming-model
